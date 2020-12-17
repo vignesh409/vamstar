@@ -1,2 +1,2 @@
 # vamstar
-vamstay assignment
+vamstar assignment
