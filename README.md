@@ -1,2 +1,0 @@
-# vamstar
-vamstar assignment
